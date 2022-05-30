@@ -22,71 +22,79 @@
     "url": "https://seafile.kevinstillhammer.de",
     "icon": "https://favicons.githubusercontent.com/seafile.kevinstillhammer.de",
     "slug": "seafile",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 965,
-    "timeDay": 1039,
-    "timeWeek": 980,
-    "timeMonth": 965,
-    "timeYear": 965,
-    "dailyMinutesDown": {}
+    "time": 1046,
+    "timeDay": 2252,
+    "timeWeek": 1291,
+    "timeMonth": 1046,
+    "timeYear": 1046,
+    "dailyMinutesDown": {
+      "2022-05-30": 1
+    }
   },
   {
     "name": "Standard Notes",
     "url": "https://notes.kevinstillhammer.de",
     "icon": "https://favicons.githubusercontent.com/notes.kevinstillhammer.de",
     "slug": "standard-notes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 579,
-    "timeDay": 761,
-    "timeWeek": 614,
-    "timeMonth": 579,
-    "timeYear": 579,
-    "dailyMinutesDown": {}
+    "time": 608,
+    "timeDay": 1108,
+    "timeWeek": 719,
+    "timeMonth": 608,
+    "timeYear": 608,
+    "dailyMinutesDown": {
+      "2022-05-30": 0
+    }
   },
   {
     "name": "PhotoPrism",
     "url": "https://photoprism.kevinstillhammer.de",
     "icon": "https://favicons.githubusercontent.com/photoprism.kevinstillhammer.de",
     "slug": "photo-prism",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 723,
-    "timeDay": 934,
-    "timeWeek": 780,
-    "timeMonth": 723,
-    "timeYear": 723,
-    "dailyMinutesDown": {}
+    "time": 740,
+    "timeDay": 1094,
+    "timeWeek": 840,
+    "timeMonth": 740,
+    "timeYear": 740,
+    "dailyMinutesDown": {
+      "2022-05-30": 0
+    }
   },
   {
     "name": "Jellyfin",
     "url": "https://jellyfin.kevinstillhammer.de",
     "icon": "https://favicons.githubusercontent.com/jellyfin.kevinstillhammer.de",
     "slug": "jellyfin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 685,
-    "timeDay": 932,
-    "timeWeek": 733,
-    "timeMonth": 685,
-    "timeYear": 685,
-    "dailyMinutesDown": {}
+    "time": 710,
+    "timeDay": 1193,
+    "timeWeek": 824,
+    "timeMonth": 710,
+    "timeYear": 710,
+    "dailyMinutesDown": {
+      "2022-05-30": 0
+    }
   }
 ]
