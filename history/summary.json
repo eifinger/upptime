@@ -4,28 +4,30 @@
     "url": "https://homeassistant.kevinstillhammer.de",
     "icon": "https://favicons.githubusercontent.com/homeassistant.kevinstillhammer.de",
     "slug": "home-assistant",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 678,
     "timeDay": 674,
     "timeWeek": 858,
     "timeMonth": 678,
     "timeYear": 678,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-31": 2
+    }
   },
   {
     "name": "Seafile",
     "url": "https://seafile.kevinstillhammer.de",
     "icon": "https://favicons.githubusercontent.com/seafile.kevinstillhammer.de",
     "slug": "seafile",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "97.94%",
-    "uptimeWeek": "99.71%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.69%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
     "time": 1151,
@@ -34,6 +36,7 @@
     "timeMonth": 1151,
     "timeYear": 1151,
     "dailyMinutesDown": {
+      "2022-05-31": 2,
       "2022-05-30": 30
     }
   },
@@ -42,10 +45,10 @@
     "url": "https://notes.kevinstillhammer.de",
     "icon": "https://favicons.githubusercontent.com/notes.kevinstillhammer.de",
     "slug": "standard-notes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "97.95%",
-    "uptimeWeek": "99.71%",
+    "uptimeDay": "97.87%",
+    "uptimeWeek": "99.70%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
     "time": 606,
@@ -54,6 +57,7 @@
     "timeMonth": 606,
     "timeYear": 606,
     "dailyMinutesDown": {
+      "2022-05-31": 1,
       "2022-05-30": 29
     }
   },
@@ -62,10 +66,10 @@
     "url": "https://photoprism.kevinstillhammer.de",
     "icon": "https://favicons.githubusercontent.com/photoprism.kevinstillhammer.de",
     "slug": "photo-prism",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "97.96%",
-    "uptimeWeek": "99.71%",
+    "uptimeDay": "97.92%",
+    "uptimeWeek": "99.70%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
     "time": 732,
@@ -74,6 +78,7 @@
     "timeMonth": 732,
     "timeYear": 732,
     "dailyMinutesDown": {
+      "2022-05-31": 1,
       "2022-05-30": 29
     }
   },
@@ -82,9 +87,9 @@
     "url": "https://jellyfin.kevinstillhammer.de",
     "icon": "https://favicons.githubusercontent.com/jellyfin.kevinstillhammer.de",
     "slug": "jellyfin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "97.97%",
+    "uptimeDay": "97.96%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
@@ -94,6 +99,7 @@
     "timeMonth": 716,
     "timeYear": 716,
     "dailyMinutesDown": {
+      "2022-05-31": 0,
       "2022-05-30": 29
     }
   }
