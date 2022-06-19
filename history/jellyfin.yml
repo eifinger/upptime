@@ -1,7 +1,7 @@
 url: https://jellyfin.kevinstillhammer.de
-status: up
-code: 200
-responseTime: 758
-lastUpdated: 2022-06-18T23:13:48.654Z
+status: down
+code: 502
+responseTime: 3726
+lastUpdated: 2022-06-19T16:56:45.687Z
 startTime: Wed May 04 2022 11:46:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
