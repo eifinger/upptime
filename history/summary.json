@@ -36,7 +36,7 @@
     "url": "https://photoprism.kevinstillhammer.de",
     "icon": "https://icons.duckduckgo.com/ip3/photoprism.kevinstillhammer.de.ico",
     "slug": "photo-prism",
-    "status": "up",
+    "status": "down",
     "uptime": "97.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -48,6 +48,7 @@
     "timeMonth": 714,
     "timeYear": 962,
     "dailyMinutesDown": {
+      "2023-04-15": 0,
       "2023-02-01": 629,
       "2023-01-31": 1440,
       "2023-01-30": 1440,
