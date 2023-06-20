@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/homeassistant.kevinstillhammer.de.ico",
     "slug": "home-assistant",
     "status": "up",
-    "uptime": "99.25%",
+    "uptime": "99.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
-    "uptimeMonth": "91.21%",
+    "uptimeMonth": "94.42%",
     "uptimeYear": "99.17%",
-    "time": 688,
-    "timeDay": 520,
-    "timeWeek": 735,
-    "timeMonth": 660,
-    "timeYear": 688,
+    "time": 687,
+    "timeDay": 526,
+    "timeWeek": 727,
+    "timeMonth": 656,
+    "timeYear": 687,
     "dailyMinutesDown": {
       "2023-06-14": 19,
       "2023-05-26": 35,
@@ -31,8 +31,7 @@
       "2022-10-12": 38,
       "2022-08-24": 16,
       "2022-07-21": 86,
-      "2022-06-26": 95,
-      "2022-06-20": 32
+      "2022-06-26": 95
     }
   },
   {
@@ -41,16 +40,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/photoprism.kevinstillhammer.de.ico",
     "slug": "photo-prism",
     "status": "up",
-    "uptime": "98.00%",
+    "uptime": "98.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.13%",
-    "time": 940,
-    "timeDay": 548,
+    "time": 939,
+    "timeDay": 681,
     "timeWeek": 934,
-    "timeMonth": 869,
-    "timeYear": 960,
+    "timeMonth": 854,
+    "timeYear": 961,
     "dailyMinutesDown": {
       "2023-02-01": 629,
       "2023-01-31": 1440,
@@ -70,8 +69,7 @@
       "2022-07-21": 85,
       "2022-07-17": 593,
       "2022-07-16": 931,
-      "2022-06-26": 94,
-      "2022-06-20": 31
+      "2022-06-26": 94
     }
   }
 ]
