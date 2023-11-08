@@ -11,10 +11,10 @@
     "uptimeMonth": "98.82%",
     "uptimeYear": "98.79%",
     "time": 673,
-    "timeDay": 488,
-    "timeWeek": 589,
-    "timeMonth": 611,
-    "timeYear": 663,
+    "timeDay": 433,
+    "timeWeek": 576,
+    "timeMonth": 603,
+    "timeYear": 662,
     "dailyMinutesDown": {
       "2023-11-02": 17,
       "2023-10-25": 38,
@@ -33,8 +33,7 @@
       "2023-01-25": 84,
       "2023-01-08": 31,
       "2023-01-07": 25,
-      "2022-11-13": 20,
-      "2022-11-08": 43
+      "2022-11-13": 20
     }
   },
   {
@@ -43,15 +42,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/photoprism.kevinstillhammer.de.ico",
     "slug": "photo-prism",
     "status": "up",
-    "uptime": "98.51%",
+    "uptime": "98.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.75%",
-    "time": 932,
-    "timeDay": 653,
-    "timeWeek": 733,
-    "timeMonth": 808,
+    "time": 933,
+    "timeDay": 662,
+    "timeWeek": 729,
+    "timeMonth": 802,
     "timeYear": 986,
     "dailyMinutesDown": {
       "2023-02-01": 629,
