@@ -4,7 +4,7 @@
     "url": "https://homeassistant.kevinstillhammer.de",
     "icon": "https://icons.duckduckgo.com/ip3/homeassistant.kevinstillhammer.de.ico",
     "slug": "home-assistant",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 662,
     "timeYear": 663,
     "dailyMinutesDown": {
+      "2024-01-13": 0,
       "2023-11-15": 18,
       "2023-11-02": 17,
       "2023-10-25": 38,
