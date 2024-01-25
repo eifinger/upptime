@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/homeassistant.kevinstillhammer.de.ico",
     "slug": "home-assistant",
     "status": "up",
-    "uptime": "99.25%",
+    "uptime": "99.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "98.80%",
-    "time": 667,
-    "timeDay": 547,
-    "timeWeek": 625,
-    "timeMonth": 660,
-    "timeYear": 663,
+    "time": 665,
+    "timeDay": 525,
+    "timeWeek": 596,
+    "timeMonth": 659,
+    "timeYear": 662,
     "dailyMinutesDown": {
       "2024-01-19": 20,
       "2024-01-13": 50,
@@ -32,8 +32,7 @@
       "2023-05-21": 1002,
       "2023-05-20": 1440,
       "2023-05-19": 1355,
-      "2023-03-08": 38,
-      "2023-01-25": 84
+      "2023-03-08": 38
     }
   },
   {
@@ -48,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.76%",
     "time": 938,
-    "timeDay": 684,
-    "timeWeek": 826,
+    "timeDay": 665,
+    "timeWeek": 771,
     "timeMonth": 825,
     "timeYear": 1009,
     "dailyMinutesDown": {
@@ -58,8 +57,7 @@
       "2023-01-30": 1440,
       "2023-01-29": 1440,
       "2023-01-28": 1440,
-      "2023-01-27": 47,
-      "2023-01-25": 81
+      "2023-01-27": 47
     }
   }
 ]
